@@ -1,0 +1,3 @@
+Hola este es un nuevo ejercicio con git
+
+Bye bye, que te vaya bien!
